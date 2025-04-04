@@ -1,0 +1,1 @@
+Esse projeto faz parte da minha jornada de aprendizado fullstack onde pratico o uso de html e css
