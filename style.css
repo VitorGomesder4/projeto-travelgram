@@ -1,0 +1,5 @@
+header, main, aside, footer {
+    margin: 10px 0px;
+    height: 100px;
+    border: solid
+}
